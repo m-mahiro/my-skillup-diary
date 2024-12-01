@@ -43,7 +43,7 @@ PHP|動的なWebサイトを作成するためのプログラミング言語
 > SQL（Structured Query Language）とは、リレーショナルデータベース(RDB：Relational Database)の管理や操作を行うための問い合わせ言語の一つ。業界標準として広く普及しており、様々なデータベース管理システム(DBMS：Databese Management System)で利用できる。
 > [<IT用語辞典 e-worlds.jpより>](https://e-words.jp/w/SQL.html)
 
-RDBは表形式のデータベースと考えてよい。（情報数学でちらっと「関係データベース」を習ったと思います。）
+RDBは表形式のデータベースと考えてよい。（情報数学でちらっと「関係データベース」を習ったと思う。）
 ちなみに、SQLはANSI(米国国家規格協会)によって標準化されたのだが、そのANSI規格では"SQL"は何の略称でもないとされている。
 
 ### MySQL
