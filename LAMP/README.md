@@ -35,6 +35,4 @@ PHP|動的なWebサイトを作成するためのプログラミング言語
 ### 参考資料
 - IT用語辞典 e-words.jp
 - ゼロからわかるLinux Webサーバー超入門 [Apache HTTP Server 対応版] 小笠原種高 著 2018年
-![alt text](image-1.png)
 - 「GCPの教科書」クラウドエース株式会社 吉積礼敏・他 著 2022年
-![alt text](image.png)
