@@ -1,3 +1,14 @@
+## [SQLite3]DBファイル/ディレクトリの権限設定
+```bash
+# データベースファイルの所有者とグループを設定
+sudo chown www-data:www-data database.sqlite
+# 600は所有者のみ読み書き可能
+sudo chmod 600 database.sqlite
+# データベースファイルが置かれているディレクトリの権限も設定
+sudo chmod 755 /path/to/database/directory
+```
+
+---
 SQLite3の基本的なコマンドについて説明します。SQLite3はコマンドラインツールを使用してデータベースを操作できるので、SQLクエリに加えて、SQLite3専用のコマンドも用意されています。
 
 以下はSQLite3でよく使われる基本的なコマンドです。
